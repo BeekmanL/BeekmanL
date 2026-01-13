@@ -3,9 +3,9 @@
 ### Major
 Computer Engineering
 
-### Projects
+### Future Projects
 - Introduction to Databases and Modeling major Project (This project is for the class, We dont have any information about the project yet)
-- 
+- Create an AutoClicker (This is an inteneded personal project to challenge my basic knowledge of coding)
 
 <!--
 **BeekmanL/BeekmanL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
