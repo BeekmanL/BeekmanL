@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hi my name is Landon 👋
+
+### Major
+Computer Engineering
+
+### Projects
+- Introduction to Databases and Modeling major Project (This project is for the class, We dont have any information about the project yet)
+- 
 
 <!--
 **BeekmanL/BeekmanL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
