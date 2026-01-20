@@ -6,6 +6,7 @@ Computer Engineering
 ### Future Projects
 - Introduction to Databases and Modeling major Project (This project is for the class, We dont have any information about the project yet)
 - Create an AutoClicker (This is an inteneded personal project to challenge my basic knowledge of coding)
+- Designing a stickynote that will stay on the windows desktop (This is a personal project I am planning on applying to a coding competition)
 
 <!--
 **BeekmanL/BeekmanL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
